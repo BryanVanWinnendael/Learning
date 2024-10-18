@@ -4,4 +4,4 @@
 
 ## Projects
 
-- [api-sqlite](./api-test/)
+- [api-sqlite](./api-sqlite/)
