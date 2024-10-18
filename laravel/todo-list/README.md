@@ -2,6 +2,11 @@
 
 This is a web app made with laravel.
 
+![screenshot](./public/web.png)
+
+## .env
+Copy the content of .env.example to .env and change what needed.
+
 run
 
 ```bash
