@@ -10,14 +10,14 @@ Copy the content of .env.example to .env and change what needed.
 run
 
 ```bash
-  php artisan serve
+php artisan serve
 
 ```
 
 create a model
 
 ```bash
-  php artisan make:model Task -m
+php artisan make:model Task -m
 ```
 
 rollback when changing migration file

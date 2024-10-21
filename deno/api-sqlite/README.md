@@ -5,19 +5,19 @@ This is a CRUD API made with Deno.
 run
 
 ```bash
-  deno run -A --watch main.ts
+deno run -A --watch main.ts
 ```
 
 lint code
 
 ```bash
-  deno fmt
+deno fmt
 ```
 
 format code
 
 ```bash
-  deno lint
+deno lint
 ```
 
 test code
