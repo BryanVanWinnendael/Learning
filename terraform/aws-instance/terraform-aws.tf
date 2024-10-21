@@ -37,7 +37,7 @@ resource "local_file" "private_key" {
 }
 
 # Resource to create an EC2 instance in AWS with name 'public_instance'.
-resource "aws_instance" "public_instance2" {
+resource "aws_instance" "public_instance" {
   # Amazon Machine Image (AMI) used for the instance, in this case a specific Ubuntu image.
   ami           = "ami-045a8ab02aadf4f88"
   instance_type = "t2.micro"
