@@ -6,3 +6,4 @@ This is a repo of all the new technologies I learned/still learning.
 
 - [Deno](./deno/)
 - [Laravel](./laravel/)
+- [Terraform](./terraform/)
